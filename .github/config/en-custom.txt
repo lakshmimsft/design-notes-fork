@@ -612,3 +612,9 @@ parsers
 Shruthi
 Kumar
 sk
+lakshmimsft
+recipeConfig
+recipies
+terraformrc
+DigitalOcean
+setenv
