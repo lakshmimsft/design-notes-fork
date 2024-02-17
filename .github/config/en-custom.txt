@@ -619,3 +619,8 @@ terraformrc
 DigitalOcean
 setenv
 env:
+Convertor
+DataModel
+PRs
+TypeSpec
+TerraformConfig
