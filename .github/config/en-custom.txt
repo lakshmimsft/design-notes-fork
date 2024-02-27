@@ -614,7 +614,6 @@ Kumar
 sk
 lakshmimsft
 recipeConfig
-recipies
 terraformrc
 DigitalOcean
 setenv
@@ -624,3 +623,8 @@ DataModel
 PRs
 TypeSpec
 TerraformConfig
+envVariables
+EnvironmentVariables
+amongst
+ProviderSecret
+SecretReference
